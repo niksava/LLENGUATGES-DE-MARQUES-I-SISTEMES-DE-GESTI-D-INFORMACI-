@@ -1,0 +1,173 @@
+{
+    "ResultatsFutbol": {
+        "Lliga": {
+            "nom": "Liga BBVA",
+            "Jornades": [
+                {
+                    "num": 1,
+                    "Partits": [
+                        {
+                            "Local": "R. Sociedad",
+                            "Visitant": "Getafe",
+                            "Resultat": "2-0",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Valencia",
+                            "Visitant": "Málaga",
+                            "Resultat": "1-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Osasuna",
+                            "Visitant": "Granada",
+                            "Resultat": "1-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Sevilla",
+                            "Visitant": "Atlético",
+                            "Resultat": "1-3",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Celta",
+                            "Visitant": "Espanyol",
+                            "Resultat": "1-2",
+                            "Estat": "finalizado"
+                        }
+                    ]
+                },
+                {
+                    "num": 2,
+                    "Partits": [
+                        {
+                            "Local": "Getafe",
+                            "Visitant": "Almería",
+                            "Resultat": "1-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Elche",
+                            "Visitant": "R. Sociedad",
+                            "Resultat": "1-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Villarreal",
+                            "Visitant": "Valladolid",
+                            "Resultat": "2-0",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Málaga",
+                            "Visitant": "FC Barcelona",
+                            "Resultat": "2-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Betis",
+                            "Visitant": "Celta",
+                            "Resultat": "2-2",
+                            "Estat": "finalizado"
+                        }
+                    ]
+                },
+                {
+                    "num": 3,
+                    "Partits": [
+                        {
+                            "Local": "Rayo",
+                            "Visitant": "Levante",
+                            "Resultat": "2-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Celta",
+                            "Visitant": "Granada",
+                            "Resultat": "1-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Valencia",
+                            "Visitant": "Villarreal",
+                            "Resultat": "2-3",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Betis",
+                            "Visitant": "FC Barcelona",
+                            "Resultat": "2-3",
+                            "Estat": "finalizado"
+                        }
+                    ]
+                },
+                {
+                    "num": 4,
+                    "Partits": [
+                        {
+                            "Local": "Atlético",
+                            "Visitant": "Almería",
+                            "Resultat": "4-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "FC Barcelona",
+                            "Visitant": "Sevilla",
+                            "Resultat": "3-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Granada",
+                            "Visitant": "Espanyol",
+                            "Resultat": "0-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Málaga",
+                            "Visitant": "Rayo",
+                            "Resultat": "5-0",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Elche",
+                            "Visitant": "Valladolid",
+                            "Resultat": "0-0",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Levante",
+                            "Visitant": "R. Sociedad",
+                            "Resultat": "0-0",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Villarreal",
+                            "Visitant": "R. Madrid",
+                            "Resultat": "2-2",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Getafe",
+                            "Visitant": "Osasuna",
+                            "Resultat": "2-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Betis",
+                            "Visitant": "Valencia",
+                            "Resultat": "3-1",
+                            "Estat": "finalizado"
+                        },
+                        {
+                            "Local": "Athletic",
+                            "Visitant": "Celta",
+                            "Resultat": "3-2",
+                            "Estat": "finalizado"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

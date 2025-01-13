@@ -1,0 +1,83 @@
+{
+    "pressupost": {
+      "client": {
+        "nom": "Anònim",
+        "comentari": "Necessito dos pressupostos per a un ordinador amb els components especificats."
+      },
+      "opcions": [
+        {
+          "id": 1,
+          "components": [
+            {
+              "tipus": "placa_base",
+              "nom": "ASUS PRIME B450M-A",
+              "preu": 85.00
+            },
+            {
+              "tipus": "processador",
+              "nom": "AMD Ryzen 5 5600X",
+              "preu": 230.00
+            },
+            {
+              "tipus": "memoria_ram",
+              "nom": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz",
+              "preu": 90.00
+            },
+            {
+              "tipus": "disc_dur",
+              "nom": "Samsung 970 EVO Plus 1TB NVMe",
+              "preu": 120.00
+            },
+            {
+              "tipus": "targeta_grafica",
+              "nom": "MSI GeForce GTX 1660 Super",
+              "preu": 250.00
+            },
+            {
+              "tipus": "targeta_de_so",
+              "nom": "Creative Sound Blaster Audigy FX",
+              "preu": 40.00
+            }
+          ],
+          "total": 815.00
+        },
+        {
+          "id": 2,
+          "components": [
+            {
+              "tipus": "placa_base",
+              "nom": "Gigabyte B660M DS3H",
+              "preu": 120.00
+            },
+            {
+              "tipus": "processador",
+              "nom": "Intel Core i5-12400F",
+              "preu": 190.00
+            },
+            {
+              "tipus": "memoria_ram",
+              "nom": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200MHz",
+              "preu": 85.00
+            },
+            {
+              "tipus": "disc_dur",
+              "nom": "Western Digital Blue 1TB SATA",
+              "preu": 50.00
+            },
+            {
+              "tipus": "targeta_grafica",
+              "nom": "ASUS TUF Gaming GeForce RTX 3060",
+              "preu": 400.00
+            },
+            {
+              "tipus": "targeta_de_so",
+              "nom": "Asus Xonar SE",
+              "preu": 50.00
+            }
+          ],
+          "total": 895.00
+        }
+      ]
+    }
+  }
+  
