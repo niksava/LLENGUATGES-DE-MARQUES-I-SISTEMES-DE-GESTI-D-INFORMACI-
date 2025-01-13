@@ -1,0 +1,22 @@
+{
+    "origen": "Tortosa",
+    "desti": "Tarragona",
+    "data": "2024-12-15",
+    "trens": [
+      {
+        "hora_sortida": "08:00",
+        "hora_arribada": "09:30",
+        "duracio": "1:30",
+        "tipus": "Regional Express",
+        "preu": 8.50
+      },
+      {
+        "hora_sortida": "10:00",
+        "hora_arribada": "11:30",
+        "duracio": "1:30",
+        "tipus": "Intercity",
+        "preu": 12.00
+      }
+    ]
+  }
+  

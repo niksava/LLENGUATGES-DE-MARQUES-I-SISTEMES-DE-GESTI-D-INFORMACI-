@@ -1,0 +1,19 @@
+<renfe>
+    <origen>Tortosa</origen>
+    <desti>Tarragona</desti>
+    <data>2024-12-15</data>
+    <tren>
+        <hora_sortida>08:00</hora_sortida>
+        <hora_arribada>09:30</hora_arribada>
+        <duracio>1:30</duracio>
+        <tipus>Regional Express</tipus>
+        <preu>8.50</preu>
+    </tren>
+    <tren>
+        <hora_sortida>10:00</hora_sortida>
+        <hora_arribada>11:30</hora_arribada>
+        <duracio>1:30</duracio>
+        <tipus>Intercity</tipus>
+        <preu>12.00</preu>
+    </tren>
+</renfe>
