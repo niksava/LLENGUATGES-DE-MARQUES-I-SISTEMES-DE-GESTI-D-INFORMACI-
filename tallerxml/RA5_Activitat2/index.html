@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predicció Meteorològica</title>
+    <style>
+        .day {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Predicció Meteorològica</h1>
+    <div id="weather-data"></div>
+    <script>
+        // Carregar el fitxer JSON
+        fetch('dadesobertes_pg.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('weather-data');
+                data.forEach(day => {
+                    // Extreure la propietat "variables"
+                    const variables = day.versio.variables;
+
+                    // Crear un div per al dia
+                    const dayDiv = document.createElement('div');
+                    dayDiv.classList.add('day');
+
+                    // Afegir la data com a títol
+                    const date = formatDate(day.diaPredit);
+                    dayDiv.innerHTML = `<h3>${date}</h3>`;
+
+                    // Iterar sobre les variables i crear paràgrafs
+                    for (const [key, value] of Object.entries(variables)) {
+                        const p = document.createElement('p');
+                        p.textContent = `${key}: ${value}`;
+                        dayDiv.appendChild(p);
+                    }
+
+                    // Afegir el div al contenidor
+                    container.appendChild(dayDiv);
+                });
+            })
+            .catch(error => {
+                console.error('Error al carregar el JSON:', error);
+                const container = document.getElementById('weather-data');
+                container.innerHTML = '<p>No s\'han pogut carregar les dades meteorològiques.</p>';
+            });
+
+        // Funció per formatar la data
+        function formatDate(dateString) {
+            const year = dateString.substring(0, 4);
+            const month = dateString.substring(4, 6);
+            const day = dateString.substring(6, 8);
+            const months = [
+                'gener', 'febrer', 'març', 'abril', 'maig', 'juny',
+                'juliol', 'agost', 'setembre', 'octubre', 'novembre', 'desembre'
+            ];
+            return `${day} de ${months[parseInt(month) - 1]} de ${year}`;
+        }
+    </script>
+</body>
+</html>

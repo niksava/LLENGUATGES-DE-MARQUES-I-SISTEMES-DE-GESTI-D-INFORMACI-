@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<classe>
+<assignatura>esgrima</assignatura>
+<maestrojedi especialitat="sable laser">
+<nom>Obi-wan</nom>
+<cognom>Kenobi</cognom>
+</maestrojedi>
+<padawans>
+<padawan>
+<nom>Anakin</nom>
+<cognom>SkyWalker</cognom>
+</padawan>
+<padawan>
+<nom>Ben</nom>
+<cognom>Solo</cognom>
+</padawan>
+<padawan>
+<nom>Luke</nom>
+<cognom>SkyWalker</cognom>
+</padawan>
+</padawans>
+</classe>
