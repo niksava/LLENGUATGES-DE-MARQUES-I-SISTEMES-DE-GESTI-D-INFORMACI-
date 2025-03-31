@@ -1,0 +1,391 @@
+{
+	"joc": {
+		"regions": {
+			"pais": [
+				{
+					"caracteristica": [
+						"El país de la llibertat",
+						"Similar a l'Europa medieval",
+						"Poder elemental del Vent"
+					],
+					"deu": {
+						"_alias": "Venti",
+						"__text": "Arconte Anemo"
+					},
+					"_nom": "Mondstadt",
+					"_versio": "1.0"
+				},
+				{
+					"caracteristica": [
+						"Similar a la Xina medieval",
+						"Orografia molt montanyosa",
+						"Poder elemental de la Terra"
+					],
+					"deu": {
+						"_alias": "Zhongli",
+						"__text": "Rex Lapis"
+					},
+					"_nom": "Liyue",
+					"_versio": "1.0"
+				},
+				{
+					"caracteristica": [
+						"Busqueda de la immutabilitat",
+						"Similar a Japó medieval",
+						"Poder elemental de l'electricitat"
+					],
+					"deu": {
+						"_alias": "Eli",
+						"__text": "Shogun Raiden"
+					},
+					"_nom": "Inazuma",
+					"_versio": "2.0"
+				},
+				{
+					"caracteristica": [
+						"País de selva i deserts",
+						"Similar a la selva amazònica i a Egipte",
+						"Poder elemental d'energia vegetal"
+					],
+					"deu": {
+						"_alias": "Nahida",
+						"__text": "Reina Menor Kusanali"
+					},
+					"_nom": "Sumeru",
+					"_versio": "3.0"
+				},
+				{
+					"caracteristica": [
+						"País dels enginys mecànics",
+						"Zones aquatiques",
+						"Poder elemental de l'aigua"
+					],
+					"deu": {
+						"_alias": "Furina",
+						"__text": "Arconte Hydro"
+					},
+					"_nom": "Fontaine",
+					"_versio": "4.0"
+				},
+				{
+					"caracteristica": [
+						"País del foc i la competició",
+						"Fauna de dinosaures",
+						"Poder elemental del foc"
+					],
+					"deu": {
+						"_alias": "Mavuika",
+						"__text": "Arconte Pyro"
+					},
+					"_nom": "Natlan",
+					"_versio": "5.0"
+				}
+			]
+		},
+		"personatges": {
+			"personatge": [
+				{
+					"nom": "Traveller1",
+					"estrelles": "5",
+					"arma": "espasa",
+					"pais": "Sense país",
+					"genere": "Dona",
+					"nivell": "90",
+					"_aconseguit": "SI"
+				},
+				{
+					"nom": "Traveller2",
+					"estrelles": "5",
+					"arma": "espasa",
+					"pais": "Sense país",
+					"genere": "Home",
+					"_aconseguit": "NO"
+				}
+			],
+			"tipus": [
+				{
+					"personatge": [
+						{
+							"nom": "Venti",
+							"estrelles": "5",
+							"arma": "arc",
+							"pais": "Mondstadt",
+							"genere": "Home",
+							"nivell": "80",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Jean",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Mondstadt",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Linette",
+							"estrelles": "4",
+							"arma": "espasa",
+							"pais": "Snezhnaya",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Kazuha",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Inazuma",
+							"genere": "Home",
+							"nivell": "70",
+							"_aconseguit": "SI"
+						}
+					],
+					"_nom": "Anemo"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Zhongli",
+							"estrelles": "5",
+							"arma": "llança",
+							"pais": "Liyue",
+							"genere": "Home",
+							"nivell": "80",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Ningguang",
+							"estrelles": "4",
+							"arma": "catalitzador",
+							"pais": "Liyue",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Navia",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Fontaine",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Xilonen",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Natlan",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						}
+					],
+					"_nom": "Geo"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Shogun Raiden",
+							"estrelles": "5",
+							"arma": "llança",
+							"pais": "Inazuma",
+							"genere": "Dona",
+							"nivell": "90",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Yae Miko",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Inazuma",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Razor",
+							"estrelles": "4",
+							"arma": "mandoble",
+							"pais": "Mondstadt",
+							"genere": "Home",
+							"nivell": "50",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Kuki Shinobu",
+							"estrelles": "4",
+							"arma": "espasa",
+							"pais": "Inazuma",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						}
+					],
+					"_nom": "Electro"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Diluc",
+							"estrelles": "5",
+							"arma": "mandoble",
+							"pais": "Mondstadt",
+							"genere": "Home",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Bennet",
+							"estrelles": "4",
+							"arma": "espasa",
+							"pais": "Mondstadt",
+							"genere": "Home",
+							"nivell": "60",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Lyney",
+							"estrelles": "5",
+							"arma": "arc",
+							"pais": "Snezhnaya",
+							"genere": "Home",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Xiangling",
+							"estrelles": "4",
+							"arma": "llança",
+							"pais": "Liyue",
+							"genere": "Home",
+							"nivell": "80",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Mavuika",
+							"estrelles": "5",
+							"arma": "mandoble",
+							"pais": "Natlan",
+							"genere": "Dona",
+							"nivell": "60",
+							"_aconseguit": "SI"
+						}
+					],
+					"_nom": "Pyro"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Rosalia",
+							"estrelles": "4",
+							"arma": "llança",
+							"pais": "Mondstadt",
+							"genere": "Dona",
+							"nivell": "50",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Qiqi",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Liyue",
+							"genere": "Home",
+							"nivell": "90",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Shenhe",
+							"estrelles": "5",
+							"arma": "llança",
+							"pais": "Liyue",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Wriothesley",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Fontaine",
+							"genere": "Home",
+							"_aconseguit": "NO"
+						}
+					],
+					"_nom": "Cryo"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Nahida",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Sumeru",
+							"genere": "Dona",
+							"nivell": "80",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Kirara",
+							"estrelles": "4",
+							"arma": "catalitzador",
+							"pais": "Inazuma",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Baizhu",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Liyue",
+							"genere": "Home",
+							"nivell": "70",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Kinich",
+							"estrelles": "5",
+							"arma": "mandoble",
+							"pais": "Natlan",
+							"genere": "Home",
+							"_aconseguit": "NO"
+						}
+					],
+					"_nom": "Dendro"
+				},
+				{
+					"personatge": [
+						{
+							"nom": "Mona",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Mondstadt",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Furina",
+							"estrelles": "5",
+							"arma": "espasa",
+							"pais": "Fontaine",
+							"genere": "Dona",
+							"nivell": "70",
+							"_aconseguit": "SI"
+						},
+						{
+							"nom": "Neuvillete",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Fontaine",
+							"genere": "Home",
+							"_aconseguit": "NO"
+						},
+						{
+							"nom": "Kokomi",
+							"estrelles": "5",
+							"arma": "catalitzador",
+							"pais": "Inazuma",
+							"genere": "Dona",
+							"_aconseguit": "NO"
+						}
+					],
+					"_nom": "Hydro"
+				}
+			]
+		},
+		"_nom": "Genshin Impact",
+		"_versio": "5.4"
+	}
+}
