@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <llibre any="2013">
+        <titol>HTML des de cero</titol>
+        <autor>
+            <cognom>Limongi</cognom>
+            <nom>Alfredo</nom>
+        </autor>
+        <editorial>CreateSpace Independent Publishing Platform </editorial>
+        <preu>16.75</preu>
+    </llibre>
+    <llibre any="2010">
+        <titol>El gran libro de HTML5, CSS3 y Javascript </titol>
+        <autor>
+            <cognom>Gauchat</cognom>
+            <nom>Juan Diego</nom>
+        </autor>
+        <editorial>Marcombo</editorial>
+        <preu>27.07</preu>
+    </llibre> 
+    <llibre any="2011">
+        <titol>HTML5 y CSS3 (Manuales Imprescindibles)</titol>
+        <autor>
+            <cognom>Goldsgtein</cognom>
+            <nom>Alexis</nom>
+        </autor>
+        <autor>
+            <cognom>Lazaris</cognom>
+            <nom>Louis</nom>
+        </autor>
+        <autor>
+            <cognom>Weyl</cognom>
+            <cognom>Stelle</cognom>
+        </autor>
+        <editorial>Anaya Multimédia</editorial>
+        <preu>25.60</preu>
+    </llibre>
+    <llibre any="1994">
+        <titol>TCP/IP Illustrated</titol>
+        <autor>
+            <cognom>Garcia</cognom>
+            <nom>W.</nom>
+        </autor>
+        <editorial>Addison-Wesley</editorial>
+        <preu>65.95</preu>
+    </llibre>
+    <llibre any="1992">
+        <titol>Advanced Programming for Unix environment</titol>
+        <autor>
+            <cognom>Stevens</cognom>
+            <nom>W.</nom>
+        </autor>
+        <editorial>Addison-Wesley</editorial>
+        <preu>65.95</preu>
+    </llibre>
+    <llibre any="2000">
+        <titol>Data on the Web</titol>
+        <autor>
+            <cognom>Abiteboul</cognom>
+            <nom>Serge</nom>
+        </autor>
+        <autor>
+            <cognom>Buneman</cognom>
+            <nom>Peter</nom>
+        </autor>
+        <autor>
+            <cognom>Suciu</cognom>
+            <nom>Dan</nom>
+        </autor>
+        <editorial>Morgan Kaufmann editorials</editorial>
+        <preu>39.95</preu>
+    </llibre>
+    <llibre any="1999">
+        <titol>Economics of Technology for Digital TV</titol>
+        <editor>
+            <cognom>Gerbarg</cognom>
+            <nom>Darcy</nom>
+            <afiliacion>CITI</afiliacion>
+        </editor>
+        <editorial>Kluwer Academic editorials</editorial>
+        <preu>129.95</preu>
+    </llibre>
+    <llibre any="2012">
+        <titol>XML Edición 2012</titol>
+        <autor>
+            <cognom>Acera Garciá</cognom>
+            <nom>Miguel Ángel</nom>
+        </autor>
+        <editorial>Anaya Multimédia</editorial>
+        <preu>25.60</preu>
+    </llibre>
+    <llibre any="2005">
+        <titol>XML imprescindible</titol>
+        <autor>
+            <cognom>Elliote</cognom>
+            <nom>Rusty Harold</nom>
+        </autor>
+        <autor>
+            <cognom>Means</cognom>
+            <nom>W. Scott</nom>
+        </autor>
+        <editorial>O'Reilly</editorial>
+        <preu>56.91</preu>
+    </llibre>
+    <llibre any="2009">
+        <titol>XML</titol>
+        <autor>
+            <cognom>Becher</cognom>
+            <nom>Margit</nom>
+        </autor>
+        <editorial>W3L</editorial>
+        <preu>22.99</preu>
+    </llibre>
+    <llibre any="2012">
+        <titol>Introducción a la computación</titol>
+        <autor>
+            <cognom>Brookshear</cognom>
+            <nom>J.Glenn</nom>
+        </autor>
+        <editorial>Addison-Wesley</editorial>
+        <preu>59.21</preu>
+    </llibre>    
+</biblioteca>
